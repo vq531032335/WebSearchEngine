@@ -1,0 +1,20 @@
+﻿  CreateIndex.cpp
+  InvertedIndexManager.cpp
+  MyBufferReader.cpp
+  MyBufferWriter.cpp
+  MyFileReader.cpp
+  MyFileWriter.cpp
+  MyHashTable.cpp
+  MyInvertedList.cpp
+  MyPageReader.cpp
+  VarByte.cpp
+d:\space\code2\search engine\createindex\myfilereader.h(45): warning C4244: '=': conversion from 'std::streamsize' to 'int', possible loss of data
+  d:\space\code2\search engine\createindex\myfilereader.h(42): note: while compiling class template member function 'void MyFileReader<char>::RefreshBuffer(void)'
+  d:\space\code2\search engine\createindex\myfilereader.h(57): note: see reference to function template instantiation 'void MyFileReader<char>::RefreshBuffer(void)' being compiled
+  d:\space\code2\search engine\createindex\varbyte.cpp(37): note: see reference to class template instantiation 'MyFileReader<char>' being compiled
+  Generating code
+  37 of 1133 functions ( 3.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CreateIndex.vcxproj -> D:\Space\code2\Search Engine\Release\CreateIndex.exe
